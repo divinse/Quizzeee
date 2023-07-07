@@ -1,0 +1,169 @@
+{
+    "questions": [{
+            "questionText": "Which tag is used to define an unordered list in HTML?",
+            "options": [{
+                    "text": "<ol>"
+                    
+                },
+                {
+                    "text": "<ul>",
+                    "correct": true
+                },
+                {
+                    "text": "<li>"
+                },
+                {
+                    "text": "<dl>"
+                }
+            ],
+            "explanation": " ul is the tag "
+        },
+        {
+            "questionText": "What is the correct HTML tag for inserting a line break?",
+            "options": [{
+                    "text": "<break>"
+                },
+                {
+                    "text": "<br>",
+                    "correct": true
+                },
+                {
+                    "text": "<lb>"
+                },
+                {
+                    "text": " <newline>"
+                    
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which attribute is used to specify the URL of an external JavaScript file in HTML?",
+            "options": [{
+                    "text": "src",
+                    "correct": true
+                },
+                {
+                    "text": "href"
+                    
+                },
+                {
+                    "text": "url"
+                },
+                {
+                    "text": "link"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which tag is used to define a hyperlink in HTML?",
+            "options": [{
+                    "text": "<link>"
+                },
+                {
+                    "text": "<a>",
+                    "correct": true
+                },
+                {
+                    "text": "<h>"
+                },
+                {
+                    "text": "<p>"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which attribute is used to specify an image source in HTML?",
+            "options": [{
+                    "text": "href"
+                },
+                {
+                    "text": "src",
+                    "correct": true
+                },
+                {
+                    "text": "link"
+                },
+                {
+                    "text": "img"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which tag is used to define a table row in HTML?",
+            "options": [{
+                    "text": "tr",
+                    "correct": true
+                },
+                {
+                    "text": "th"
+                },
+                {
+                    "text": "td"
+                },
+                {
+                    "text": "table"
+                    
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which attribute is used to specify the alternative text for an image in HTML?",
+            "options": [{
+                    "text": "alt",
+                    "correct": true
+                },
+                {
+                    "text": "text"
+                },
+                {
+                    "text": "src"
+                },
+                {
+                    "text": "img"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which tag is used to define a level-one heading in HTML?",
+            "options": [{
+                    "text": "h1",
+                    "correct": true
+                },
+                {
+                    "text": "h2"
+                },
+                {
+                    "text": "p"
+                },
+                {
+                    "text": "heading"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which attribute is used to specify the CSS class for an HTML element?",
+            "options": [{
+                    "text": "class",
+                    "correct": true
+                },
+                {
+                    "text": "id"
+                },
+                {
+                    "text": "style"
+                },
+                {
+                    "text": "css"
+                }
+            ],
+            "explanation": ""
+        }
+    ]
+}
